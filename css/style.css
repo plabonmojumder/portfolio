@@ -15,7 +15,7 @@ header {
 }
 
 .navbar-nav .nav-link.active,
-.navbar-nav .show>.nav-link {
+.navbar-nav .show.nav-link {
     color: #87d37c;
 }
 
